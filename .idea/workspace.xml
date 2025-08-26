@@ -37,44 +37,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Ex5_FilterEvenNumbers_ArrayToArrayList">
-    <configuration name="Ex1_FindTheMaximumAndMinimumValue_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex1_FindTheMaximumAndMinimumValue_Array" />
+}</component>
+  <component name="RunManager" selected="Application.Ex10_ConcatenateTwoArrays_Array">
+    <configuration name="Ex10_ConcatenateTwoArrays_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex10_ConcatenateTwoArrays_Array" />
       <module name="asignment7" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex2_ReverseAnArray_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex2_ReverseAnArray_Array" />
+    <configuration name="Ex6_UnlimitedDataEntry_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex6_UnlimitedDataEntry_ArrayList" />
       <module name="asignment7" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex3_CountOccurrencesArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex3_CountOccurrencesArray" />
+    <configuration name="Ex7_RemoveDuplicateElements_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex7_RemoveDuplicateElements_ArrayList" />
       <module name="asignment7" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex4_To_DoListManagementArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex4_To_DoListManagementArrayList" />
+    <configuration name="Ex8_SortAndSearch_ArraysUtility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex8_SortAndSearch_ArraysUtility" />
       <module name="asignment7" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex5_FilterEvenNumbers_ArrayToArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5_FilterEvenNumbers_ArrayToArrayList" />
+    <configuration name="Ex9_SwapTwoElementsInAnArray_ArrayAsParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex9_SwapTwoElementsInAnArray_ArrayAsParameter" />
       <module name="asignment7" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex5_FilterEvenNumbers_ArrayToArrayList" />
-        <item itemvalue="Application.Ex4_To_DoListManagementArrayList" />
-        <item itemvalue="Application.Ex3_CountOccurrencesArray" />
-        <item itemvalue="Application.Ex2_ReverseAnArray_Array" />
-        <item itemvalue="Application.Ex1_FindTheMaximumAndMinimumValue_Array" />
+        <item itemvalue="Application.Ex10_ConcatenateTwoArrays_Array" />
+        <item itemvalue="Application.Ex9_SwapTwoElementsInAnArray_ArrayAsParameter" />
+        <item itemvalue="Application.Ex8_SortAndSearch_ArraysUtility" />
+        <item itemvalue="Application.Ex7_RemoveDuplicateElements_ArrayList" />
+        <item itemvalue="Application.Ex6_UnlimitedDataEntry_ArrayList" />
       </list>
     </recent_temporary>
   </component>
