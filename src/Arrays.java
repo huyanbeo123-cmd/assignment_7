@@ -29,6 +29,6 @@ public class Arrays {
         else
             System.out.println(days_above_average + "day was above averaege.");
 
-
+        //TOI DA O DAY
     }
 }
