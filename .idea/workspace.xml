@@ -44,14 +44,7 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex4_To_DoListManagementArrayList">
-    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays" />
-      <module name="asignment7" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex5_FilterEvenNumbers_ArrayToArrayList">
     <configuration name="Ex1_FindTheMaximumAndMinimumValue_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex1_FindTheMaximumAndMinimumValue_Array" />
       <module name="asignment7" />
@@ -80,13 +73,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex5_FilterEvenNumbers_ArrayToArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5_FilterEvenNumbers_ArrayToArrayList" />
+      <module name="asignment7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex5_FilterEvenNumbers_ArrayToArrayList" />
         <item itemvalue="Application.Ex4_To_DoListManagementArrayList" />
         <item itemvalue="Application.Ex3_CountOccurrencesArray" />
         <item itemvalue="Application.Ex2_ReverseAnArray_Array" />
         <item itemvalue="Application.Ex1_FindTheMaximumAndMinimumValue_Array" />
-        <item itemvalue="Application.Arrays" />
       </list>
     </recent_temporary>
   </component>
