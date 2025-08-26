@@ -30,5 +30,6 @@ public class Arrays {
             System.out.println(days_above_average + "day was above averaege.");
 
         //TOI DA O DAY
+        //TOI DA KHONG O DAY
     }
 }
