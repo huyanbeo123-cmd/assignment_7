@@ -44,37 +44,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex10_ConcatenateTwoArrays_Array">
-    <configuration name="Ex10_ConcatenateTwoArrays_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex10_ConcatenateTwoArrays_Array" />
+  <component name="RunManager" selected="Application.Ex15_ConvertBetweenArrayAndArrayList">
+    <configuration name="Ex11_FindTheSecondLargestElement_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex11_FindTheSecondLargestElement_Array" />
       <module name="asignment7" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6_UnlimitedDataEntry_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex6_UnlimitedDataEntry_ArrayList" />
+    <configuration name="Ex12_CharacterFrequencyArray_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex12_CharacterFrequencyArray_Array" />
       <module name="asignment7" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex7_RemoveDuplicateElements_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex7_RemoveDuplicateElements_ArrayList" />
+    <configuration name="Ex13_MergeTwoSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex13_MergeTwoSortedArrays" />
       <module name="asignment7" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex8_SortAndSearch_ArraysUtility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex8_SortAndSearch_ArraysUtility" />
+    <configuration name="Ex14_RemovingElementsFromAnArrayListDuringIteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex14_RemovingElementsFromAnArrayListDuringIteration" />
       <module name="asignment7" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex9_SwapTwoElementsInAnArray_ArrayAsParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex9_SwapTwoElementsInAnArray_ArrayAsParameter" />
+    <configuration name="Ex15_ConvertBetweenArrayAndArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex15_ConvertBetweenArrayAndArrayList" />
       <module name="asignment7" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex10_ConcatenateTwoArrays_Array" />
-        <item itemvalue="Application.Ex9_SwapTwoElementsInAnArray_ArrayAsParameter" />
-        <item itemvalue="Application.Ex8_SortAndSearch_ArraysUtility" />
-        <item itemvalue="Application.Ex7_RemoveDuplicateElements_ArrayList" />
-        <item itemvalue="Application.Ex6_UnlimitedDataEntry_ArrayList" />
+        <item itemvalue="Application.Ex15_ConvertBetweenArrayAndArrayList" />
+        <item itemvalue="Application.Ex14_RemovingElementsFromAnArrayListDuringIteration" />
+        <item itemvalue="Application.Ex13_MergeTwoSortedArrays" />
+        <item itemvalue="Application.Ex12_CharacterFrequencyArray_Array" />
+        <item itemvalue="Application.Ex11_FindTheSecondLargestElement_Array" />
       </list>
     </recent_temporary>
   </component>
